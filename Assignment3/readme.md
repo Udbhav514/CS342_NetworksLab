@@ -1,8 +1,8 @@
-Project Overview
+# Project Overview
 This project includes two tasks:
 
-Drone Communication System (Task 1): A monitoring and control system for a fleet of autonomous drones, handling control commands, telemetry data, and file transfers.
-Weather Monitoring System (Task 2): A real-time weather monitoring system for a large city, with a central server and multiple weather stations transmitting data such as temperature, humidity, and air pressure.
+## Drone Communication System (Task 1): A monitoring and control system for a fleet of autonomous drones, handling control commands, telemetry data, and file transfers.
+## Weather Monitoring System (Task 2): A real-time weather monitoring system for a large city, with a central server and multiple weather stations transmitting data such as temperature, humidity, and air pressure.
 Task 1: Drone Communication System
 How to Build
 Compile the server and client programs:
